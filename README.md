@@ -22,7 +22,11 @@ The case is designed so that the cutouts for the controllers and TRRS jack are a
 ### Pictures
 
 ![](./front.PNG "")
+
 ![](./front view.PNG "")
+
 ![](./usb-c to pcb.PNG "")
+
 ![](./exploded view.PNG "")
+
 ![](./exploded view2.PNG "")
