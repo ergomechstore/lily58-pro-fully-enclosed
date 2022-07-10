@@ -18,3 +18,11 @@ The case is designed so that the cutouts for the controllers and TRRS jack are a
 - Both controllers should face down, the distance from the lowest part of the controllers to the PCB should be 2-3mm
 
 - If you use the socket included in the kit from Ergomech.store, the distance will conform to this requirement so you won't need to anything.
+
+### Pictures
+
+![](./front.PNG "")
+![](./front view.PNG "")
+![](./usb-c to pcb.PNG "")
+![](./exploded view.PNG "")
+![](./exploded view2.PNG "")
