@@ -31,6 +31,6 @@ The case is designed so that the cutouts for the controllers and TRRS jack are a
 
 ![](./exploded_view2.PNG "")
 
-![](./prototype.jpg "")
+![](./prototype1.jpg "")
 
 ![](./prototype2.jpg "")
